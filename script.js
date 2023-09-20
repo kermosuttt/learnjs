@@ -36,8 +36,6 @@ let person = {
 person.name = 'Kermo';
 person.age = 18;
 
-
-
 person.describe();
 person.describe2();
 person.describe3();
